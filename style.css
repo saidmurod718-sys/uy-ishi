@@ -1,0 +1,45 @@
+body {
+    background-color: #2A5D5A;
+ 
+
+
+
+}
+
+.title {
+
+    background-color: rgb(0, 0, 0);
+
+width: 598px;
+text-align: center;
+margin: auto;
+font-size: 64px;
+color: white;
+
+}
+
+
+
+.name{
+background-color: black;
+border:10px solid red;
+width: 1000px;
+margin: 30px auto;
+padding: 45px 52px;
+
+
+
+
+
+}
+p{
+text-align: center;
+width: 896px;
+font-size: 24px;
+margin: 30px auto
+;
+padding: 54px 40px;
+font-weight: 700;
+    background-color: #1FE8B7;
+}
+
